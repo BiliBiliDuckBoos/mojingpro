@@ -1,0 +1,36 @@
+{
+  "item": {
+    "id": "com.application.watch.demo",
+    "restype": "quick_app",
+    "name": "摸金",
+    "description": "一个手环上的摸金小游戏",
+    "preview": [
+      "media/1000183808.webp",
+      "media/1000183809.webp",
+      "media/1000183810.webp",
+      "media/1000183811.webp"
+    ],
+    "icon": "media/1000183723.jpg",
+    "cover": "media/1000183837.png",
+    "author": [
+      {
+        "name": "DuckBoos",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.3.1Pro正式版",
+      "file_name": "downloads/摸金1.3.1pro版.rpk",
+      "versionCode": 11
+    },
+    "xmb9p": {
+      "version": "1.3.1Pro正式版",
+      "file_name": "downloads/摸金1.3.1pro版.rpk",
+      "versionCode": 11
+    }
+  },
+  "ext": {}
+}
